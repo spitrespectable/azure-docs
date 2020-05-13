@@ -104,3 +104,6 @@ Create your first VM!
 - [PowerShell](quick-create-powershell.md)
 - [Azure CLI](quick-create-cli.md)
 
+
+
+  ignore this change
